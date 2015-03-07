@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Xuexibao</string>
+    <string name="title_activity_main">审核</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_filter">搜索条件</string>
+
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="good">优</string>
+    <string name="fine">良</string>
+    <string name="bad">中</string>
+    <string-array name="spinner">
+        <item>扩展少</item>
+        <item>时间短</item>
+        <item>念答案</item>
+        <item>音量小</item>
+        <item>有杂音</item>
+        <item>英语</item>
+        <item>其他</item>
+    </string-array>
+</resources>
